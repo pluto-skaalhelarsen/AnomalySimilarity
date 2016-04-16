@@ -1,0 +1,18 @@
+# Test parameters for spatial pooler
+potentialRadius=16
+potentialPct=0.5
+globalInhibition=true
+localAreaDensity=-1.0
+numActiveColumnsPerInhArea=10
+stimulusThreshold=0
+synPermInactiveDec=0.008
+synPermActiveInc=0.05
+synPermConnected=0.1
+minPctOverlapDutyCycles=0.001
+minPctActiveDutyCycles=0.001
+dutyCyclePeriod=1000
+maxBoost=10.0
+seed=1
+spVerbosity=0
+wrapAround=true
+
